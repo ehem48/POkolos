@@ -1,0 +1,17 @@
+C:\Users\Łukasz\Desktop\studia\C#\kolooos\bin\Debug\net8.0\kolooos.exe
+C:\Users\Łukasz\Desktop\studia\C#\kolooos\bin\Debug\net8.0\kolooos.deps.json
+C:\Users\Łukasz\Desktop\studia\C#\kolooos\bin\Debug\net8.0\kolooos.runtimeconfig.json
+C:\Users\Łukasz\Desktop\studia\C#\kolooos\bin\Debug\net8.0\kolooos.dll
+C:\Users\Łukasz\Desktop\studia\C#\kolooos\bin\Debug\net8.0\kolooos.pdb
+C:\Users\Łukasz\Desktop\studia\C#\kolooos\bin\Debug\net8.0\CsvHelper.dll
+C:\Users\Łukasz\Desktop\studia\C#\kolooos\obj\Debug\net8.0\kolooos.csproj.AssemblyReference.cache
+C:\Users\Łukasz\Desktop\studia\C#\kolooos\obj\Debug\net8.0\kolooos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Łukasz\Desktop\studia\C#\kolooos\obj\Debug\net8.0\kolooos.AssemblyInfoInputs.cache
+C:\Users\Łukasz\Desktop\studia\C#\kolooos\obj\Debug\net8.0\kolooos.AssemblyInfo.cs
+C:\Users\Łukasz\Desktop\studia\C#\kolooos\obj\Debug\net8.0\kolooos.csproj.CoreCompileInputs.cache
+C:\Users\Łukasz\Desktop\studia\C#\kolooos\obj\Debug\net8.0\kolooos.csproj.CopyComplete
+C:\Users\Łukasz\Desktop\studia\C#\kolooos\obj\Debug\net8.0\kolooos.dll
+C:\Users\Łukasz\Desktop\studia\C#\kolooos\obj\Debug\net8.0\refint\kolooos.dll
+C:\Users\Łukasz\Desktop\studia\C#\kolooos\obj\Debug\net8.0\kolooos.pdb
+C:\Users\Łukasz\Desktop\studia\C#\kolooos\obj\Debug\net8.0\kolooos.genruntimeconfig.cache
+C:\Users\Łukasz\Desktop\studia\C#\kolooos\obj\Debug\net8.0\ref\kolooos.dll
